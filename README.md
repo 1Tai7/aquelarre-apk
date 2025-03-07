@@ -14,7 +14,7 @@ Este proyecto es una aplicación Android desarrollada en Kotlin que utiliza Fire
 1.  **Clonar el repositorio:**
 
     ```bash
-    git clone [https://github.com/theodelrieu?tab=repositories](https://github.com/theodelrieu?tab=repositories)
+    git clone [https://github.com/theodelrieu?tab=repositories](https://github.com/1Tai7/aquelarre-apk.git)
     ```
 
 2.  **Abrir el proyecto en Android Studio:**
@@ -64,7 +64,6 @@ Este proyecto es una aplicación Android desarrollada en Kotlin que utiliza Fire
 
 ## Funcionalidades
 
-* [Lista de las funcionalidades principales de tu aplicación, por ejemplo:]
     * Autenticación de usuarios con correo electrónico y contraseña.
     * Registrarte como usuario.
     * Ver diferentes Post 
@@ -72,7 +71,6 @@ Este proyecto es una aplicación Android desarrollada en Kotlin que utiliza Fire
 
 ## Dependencias
 
-* [Lista de las dependencias utilizadas en el proyecto, por ejemplo:]
     * Firebase Authentication
     * Firebase Firestore
     * Firebase Storage
@@ -86,8 +84,8 @@ Este proyecto es una aplicación Android desarrollada en Kotlin que utiliza Fire
 
 ## Contacto
 
-* [Tu nombre] - [Tu correo electrónico]
+* [Ilce Garcia] 
 
 ## Licencia
 
-* [Tipo de licencia]
+* [MIT]
